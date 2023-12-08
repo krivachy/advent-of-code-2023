@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "chokidar \"**/*.ts\" -c \"tsx day07/day07.ts\""
+    "watch": "chokidar \"**/*.ts\" -c \"tsx day08/day08.ts\""
   },
   "keywords": [],
   "author": "",
