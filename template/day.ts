@@ -1,4 +1,5 @@
 import { loadInput } from "../util/file";
+import * as _ from 'lodash';
 
 async function main() {
     const lines = loadInput("./day02/input.txt");
